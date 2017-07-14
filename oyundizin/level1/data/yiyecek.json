@@ -1,0 +1,17 @@
+{
+  "bezelye":{"sx":0,"sy":0,"cols":1,"spacingX":2,"spacingY":2,"tilew":64,"tileh":64,"frames":1},
+  "brokoli":{"sx":64,"sy":0,"cols":1,"spacingX":2,"spacingY":2,"tilew":64,"tileh":64,"frames":1},
+  "kiraz":{"sx":128,"sy":0,"cols":1,"spacingX":2,"spacingY":2,"tilew":64,"tileh":64,"frames":1},
+  "domates":{"sx":192,"sy":0,"cols":1,"spacingX":2,"spacingY":2,"tilew":64,"tileh":64,"frames":1},
+  "havuc":{"sx":256,"sy":0,"cols":1,"spacingX":2,"spacingY":2,"tilew":64,"tileh":64,"frames":1},
+  "kahv":{"sx":320,"sy":0,"cols":1,"spacingX":2,"spacingY":2,"tilew":64,"tileh":64,"frames":1},
+  "kavun":{"sx":384,"sy":0,"cols":1,"spacingX":2,"spacingY":2,"tilew":64,"tileh":64,"frames":1},
+  "sogan":{"sx":448,"sy":0,"cols":1,"spacingX":2,"spacingY":2,"tilew":64,"tileh":64,"frames":1},
+  "lahana":{"sx":512,"sy":0,"cols":1,"spacingX":2,"spacingY":2,"tilew":64,"tileh":64,"frames":1},
+  "limon":{"sx":576,"sy":0,"cols":1,"spacingX":2,"spacingY":2,"tilew":64,"tileh":64,"frames":1},
+  "misir":{"sx":640,"sy":0,"cols":1,"spacingX":2,"spacingY":2,"tilew":64,"tileh":64,"frames":1},
+  "pirasa":{"sx":704,"sy":0,"cols":1,"spacingX":2,"spacingY":2,"tilew":64,"tileh":64,"frames":1},
+  "turp":{"sx":768,"sy":0,"cols":1,"spacingX":2,"spacingY":2,"tilew":64,"tileh":64,"frames":1},
+  "elma":{"sx":832,"sy":0,"cols":1,"spacingX":2,"spacingY":2,"tilew":64,"tileh":64,"frames":1}
+
+}
